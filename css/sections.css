@@ -1,0 +1,23 @@
+/*---About Me Section----*/
+
+.about-section {
+    padding: 2rem;
+}
+
+
+.about-image-container img {
+    width: 60%;
+}
+
+.about-image-container {
+    width: 40%;
+}
+
+.about-description-container {
+    width: 60%;
+}
+
+.about-description-container p {
+    width: 80%;
+    margin: 2rem 0px;
+}
