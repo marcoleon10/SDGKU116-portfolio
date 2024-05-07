@@ -4,7 +4,7 @@
 :root {
     --primary-color: #627D4C;
     --primary-color-100: #E5ECDF;
-    --primary-color-300: #323F27;
+    --primary-color-300: #445238;
 
     --secondary-color: #253468;
     --secondary-color-600: #B4BEE4;
@@ -13,7 +13,7 @@
 
     --neutral-color: #E0E0E0;
 
-    --background-color: #1B1B1B;
+    --background-color: white;
 
     --surface-color: #252525;
 
@@ -63,7 +63,7 @@ h1 {
 
 
 h2 {
-    color: var(--primary-color);
+    color: var(--primary-color-300);
     font-family: var(--lobster-font);
     font-weight: 400;
     letter-spacing: 0.06rem;
@@ -71,7 +71,7 @@ h2 {
 }
 
 p {
-    color: var(--neutral-color);
+    color: var(--primary-color);
     font-size: 1.1rem;
 }
 
