@@ -75,10 +75,11 @@ p {
     font-size: 1.1rem;
 }
 
-.tags-container label{
+.tags-container label, .skills-container label {
     color: var(--primary-color);
     background-color: var(--secondary-color);
     text-transform: uppercase;
+    font-size: 1.1rem;
     font-weight: 600;
     padding: 0.8rem 1.5rem;
 }
